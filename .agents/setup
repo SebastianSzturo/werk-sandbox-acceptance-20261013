@@ -1,0 +1,3 @@
+#!/bin/sh
+set -eu
+printf "acceptance setup ran\n" > setup-proof.txt
